@@ -11,7 +11,7 @@ Esses são os mais básicos e comuns, ideais para testar lógica pura.
 - [Best Time to Buy and Sell Stock](./problems/best_time_to_buy_and_sell_stock.md)
 - [Valid Anagram](./problems/valid_anagram.md)
 - [Longest Substring Without Repeating Characters](./problems/length_of_longest_substring.md)
-- Rotate Array
+- [Rotate Array](./problems/rotate_array.md)
 - Merge Intervals
 
 
