@@ -12,7 +12,7 @@ Esses são os mais básicos e comuns, ideais para testar lógica pura.
 - [Valid Anagram](./problems/valid_anagram.md)
 - [Longest Substring Without Repeating Characters](./problems/length_of_longest_substring.md)
 - [Rotate Array](./problems/rotate_array.md)
-- Merge Intervals
+- [Merge Intervals](./problems/merge_intervals.md)
 
 
 ## Hash Tables (Map/Set)
