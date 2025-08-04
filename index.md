@@ -7,7 +7,7 @@ Os problemas mais comuns podem ser agrupados por tipo de estrutura de dados ou a
 
 Esses são os mais básicos e comuns, ideais para testar lógica pura.
 
-- Two Sum
+- [Two Sum](./problems/two_sum.md)
 - Best Time to Buy and Sell Stock
 - Valid Anagram
 - Longest Substring Without Repeating Characters
